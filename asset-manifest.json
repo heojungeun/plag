@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/plag/movie-list-app/static/css/main.4f299e56.chunk.css",
-    "main.js": "/plag/movie-list-app/static/js/main.53976925.chunk.js",
-    "main.js.map": "/plag/movie-list-app/static/js/main.53976925.chunk.js.map",
-    "runtime-main.js": "/plag/movie-list-app/static/js/runtime-main.eb0e505f.js",
-    "runtime-main.js.map": "/plag/movie-list-app/static/js/runtime-main.eb0e505f.js.map",
-    "static/js/2.415082e0.chunk.js": "/plag/movie-list-app/static/js/2.415082e0.chunk.js",
-    "static/js/2.415082e0.chunk.js.map": "/plag/movie-list-app/static/js/2.415082e0.chunk.js.map",
-    "index.html": "/plag/movie-list-app/index.html",
-    "static/css/main.4f299e56.chunk.css.map": "/plag/movie-list-app/static/css/main.4f299e56.chunk.css.map",
-    "static/js/2.415082e0.chunk.js.LICENSE.txt": "/plag/movie-list-app/static/js/2.415082e0.chunk.js.LICENSE.txt"
+    "main.css": "/plag/static/css/main.4f299e56.chunk.css",
+    "main.js": "/plag/static/js/main.53976925.chunk.js",
+    "main.js.map": "/plag/static/js/main.53976925.chunk.js.map",
+    "runtime-main.js": "/plag/static/js/runtime-main.eac5b388.js",
+    "runtime-main.js.map": "/plag/static/js/runtime-main.eac5b388.js.map",
+    "static/js/2.415082e0.chunk.js": "/plag/static/js/2.415082e0.chunk.js",
+    "static/js/2.415082e0.chunk.js.map": "/plag/static/js/2.415082e0.chunk.js.map",
+    "index.html": "/plag/index.html",
+    "static/css/main.4f299e56.chunk.css.map": "/plag/static/css/main.4f299e56.chunk.css.map",
+    "static/js/2.415082e0.chunk.js.LICENSE.txt": "/plag/static/js/2.415082e0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb0e505f.js",
+    "static/js/runtime-main.eac5b388.js",
     "static/js/2.415082e0.chunk.js",
     "static/css/main.4f299e56.chunk.css",
     "static/js/main.53976925.chunk.js"
