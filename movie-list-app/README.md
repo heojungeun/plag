@@ -1,4 +1,4 @@
 # Movie list React App
 
-    if new moive on time:
-        print new movie listß
+    if new keyboard in HOME:
+        LetsCoding(React)
